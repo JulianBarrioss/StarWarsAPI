@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JulianBarrioss/StarWarsAPI/issues"
   },
-  "homepage": "https://github.com/JulianBarrioss/StarWarsAPI#readme"
+  "homepage": "https://github.com/JulianBarrioss/StarWarsAPI#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
