@@ -39,3 +39,4 @@ Promise.all([somenthingWillHappen(), somenthingWillHappen2()])
     .catch(err => {
         console.error(err);
     })
+
